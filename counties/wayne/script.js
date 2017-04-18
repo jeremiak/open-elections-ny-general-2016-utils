@@ -18,7 +18,9 @@ readFile(srcFile)
     const presidentRows = csv.slice(0, lastPresidentIndex)
     const presidentCsvPath = path.join(__dirname, './clean/data-president.csv')
     const data = processPresidentRows(presidentRows)
-    writeJsonToCsv(presidentCsvPath, data)
+    writeJsonToCsv(presidentCsvPath, data).then(() => (
+      console.log(`done writing to ${presidentCsvPath}`)
+    ))
 
     return csv
   })
