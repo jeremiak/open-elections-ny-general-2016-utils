@@ -1,0 +1,16 @@
+{
+  "name": "open-elections-ny-general-2016-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.8.0",
+    "json2csv": "^3.7.3"
+  },
+  "scripts": {
+    "wayne": "node counties/wayne/script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
