@@ -91,6 +91,16 @@ const breakUpByCity = csv => {
   }, {})
 }
 
+const cleanCandidateNames = csv => {
+  return csv.map(row => {
+    const rawCandidate = row['candidate']
+    if (!rawCandidate) return row
+    const candidate = candidatesCleanNames[rawCandidate.toLowerCase()]
+    console.log(`${rawCandidate} -> ${candidate}`)
+    return Object.assign({}, row, { candidate })
+  })
+}
+
 const flattenCitiestoCsv = cities => {
   return Object.keys(cities).map(city => {
     const data = cities[city]
@@ -161,8 +171,9 @@ module.exports = csv => {
   const districts = addDistrictColumn(candidates)
   const party = addPartyColumn(districts)
   const votes = addVoteCountColumn(party)
+  const cleaned = cleanCandidateNames(votes)
 
-  const cities = breakUpByCity(votes)
+  const cities = breakUpByCity(cleaned)
   const newCsv = flattenCitiestoCsv(cities)
 
 
@@ -205,4 +216,41 @@ const candidatesByParty = {
   'trump/pence repub': 'repub',
   'undervotes/blank': 'no party',
   'undervotes/blank blank': 'no party'
+}
+
+const candidatesCleanNames = {
+  'buchanan': 'buchanan',
+  'buchanan no pa': 'buchanan',
+  'castle': 'castle',
+  'castle no pa': 'castle',
+  'clinton/kaine': 'clinton',
+  'clinton/kaine democ': 'clinton',
+  'clinton/kaine wome': 'clinton',
+  'clinton/kaine worki': 'clinton',
+  'gyurko': 'gyurko',
+  'gyurko no pa': 'gyurko',
+  'hoefling': 'hoefling',
+  'hoefling no pa': 'hoefling',
+  'johnson/weld': 'johnson',
+  'johnson/weld indep': 'johnson',
+  'johnson/weld libert': 'johnson',
+  'kahn': 'kahn',
+  'kahn no pa': 'kahn',
+  'keniston': 'keniston',
+  'keniston no pa': 'keniston',
+  'maturen': 'maturen',
+  'maturen no pa': 'maturen',
+  'mcmullin': 'mcmullin',
+  'mcmullin no pa': 'mcmullin',
+  'overvotes/voids': 'no party',
+  'overvotes/voids voids/': 'no party',
+  'scatterings/writ': 'no party',
+  'scatterings/writ scatt': 'no party',
+  'stein/baraka': 'stein',
+  'stein/baraka green': 'stein',
+  'trump/pence': 'trump',
+  'trump/pence conse': 'trump',
+  'trump/pence repub': 'trump',
+  'undervotes/blank': 'undervotes/blank',
+  'undervotes/blank blank': 'undervotes/blank'
 }
