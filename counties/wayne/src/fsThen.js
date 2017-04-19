@@ -1,8 +1,6 @@
 const fs = require('fs')
 
 const readFile = path => {
-  console.log('path', path)
-  console.log(__dirname)
   return new Promise((resolve, reject) => {
     fs.readFile(path, 'utf8', (err, data) => {
       if (err) return reject(err)

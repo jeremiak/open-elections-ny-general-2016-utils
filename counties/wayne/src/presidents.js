@@ -17,6 +17,37 @@ const addCandidateColumn = csv => {
   })
 }
 
+const addDistrictColumn = csv => {
+  return csv.map((row, index) => {
+    const Code = row['Code']
+    const C = row['C']
+    let district = ''
+    let precinct = ''
+
+    Object.keys(row).forEach(key => {
+      const value = row[key]
+      if (value && value.match(/\d+\/\d+\/2017$/)) {
+        let date = new Date(value)
+        district = `${date.getMonth() + 1}`
+        precinct = `${date.getDate()}`
+      }
+    })
+
+    if (Code.match(/^\d+/) && C.match(/^\d+/) && district === '') {
+      district = Code
+      precinct = C
+    } else if (Code.match(/\d+\s\d+/)) {
+      district = Code.split(' ')[0]
+      precinct = Code.split(' ')[1]
+    } else if (C.match(/\d+\s\d+/)) {
+      district = C.split(' ')[0]
+      precinct = C.split(' ')[1]
+    }
+
+    return Object.assign({}, row, { district, precinct })
+  })
+}
+
 const addPartyColumn = csv => {
   return csv.map(row => {
     const candidate = row.candidate
@@ -48,7 +79,7 @@ const breakUpByCity = csv => {
     const name = csv[city.row][city.column]
     const previous = (index > 0) ? (cities[index - 1].row + 1) : 0
     const data = csv.slice(previous, city.row)
-    return { city: `${name}`, data }
+    return { city: `${name.toLowerCase()}`, data }
   }).reduce((accum, next) => {
     if (accum[next.city]) {
       let old = accum[next.city]
@@ -103,10 +134,32 @@ const removeJunkRows = csv => {
   })
 }
 
-module.exports = (csv) => {
+const removeRawCols = csv => {
+  const cols = [
+    'candidate',
+    'district',
+    'precinct',
+    'party',
+    'votes',
+    'city',
+    'county',
+    'office'
+  ]
+  return csv.map(row => {
+    const newRow = {}
+    cols.forEach(col => {
+      newRow[col] = row[col]
+    })
+    console.log('newRow', newRow)
+    return newRow
+  })
+}
+
+module.exports = csv => {
   const data = removeJunkRows(csv)
   const candidates = addCandidateColumn(data)
-  const party = addPartyColumn(candidates)
+  const districts = addDistrictColumn(candidates)
+  const party = addPartyColumn(districts)
   const votes = addVoteCountColumn(party)
 
   const cities = breakUpByCity(votes)
