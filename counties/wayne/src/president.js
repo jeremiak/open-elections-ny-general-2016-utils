@@ -1,21 +1,9 @@
-const { cities } = require('./shared')
-const { writeFile } = require('./fsThen')
-
-const addCandidateColumn = csv => {
-  const candidates = Object.keys(candidatesByParty)
-  return csv.map(row => {
-    const keys = Object.keys(row)
-    let candidate
-    keys.forEach(key => {
-      const value = row[key]
-      if (value && candidates.includes(value.toLowerCase())) candidate = value
-    })
-
-    return Object.assign({}, row, {
-      candidate
-    })
-  })
-}
+const {
+  addCandidateColumn,
+  addPartyColumn,
+  cities,
+  removeJunkRows
+} = require('./shared')
 
 const addDistrictColumn = csv => {
   return csv.map((row, index) => {
@@ -45,15 +33,6 @@ const addDistrictColumn = csv => {
     }
 
     return Object.assign({}, row, { district, precinct })
-  })
-}
-
-const addPartyColumn = csv => {
-  return csv.map(row => {
-    const candidate = row.candidate
-    let party
-    if (candidate) party = candidatesByParty[candidate.toLowerCase()]
-    return Object.assign({}, row, { party })
   })
 }
 
@@ -96,7 +75,6 @@ const cleanCandidateNames = csv => {
     const rawCandidate = row['candidate']
     if (!rawCandidate) return row
     const candidate = candidatesCleanNames[rawCandidate.toLowerCase()]
-    console.log(`${rawCandidate} -> ${candidate}`)
     return Object.assign({}, row, { candidate })
   })
 }
@@ -130,20 +108,6 @@ const getCityCoordinates = csv => {
   }).filter(value => value)
 }
 
-const removeJunkRows = csv => {
-  return csv.filter(row => {
-    const value = row['Name Party'].toLowerCase()
-    if (value.includes('county election')) return false
-    if (value.includes('pos')) return false
-    if (value.includes('* * * * * * * * *')) return false
-    if (value.includes('column')) return false
-    if (value === 'name party') return false
-    if (value === 'name') return false
-
-    return true
-  })
-}
-
 const removeRawCols = csv => {
   const cols = [
     'candidate',
@@ -153,33 +117,37 @@ const removeRawCols = csv => {
     'votes',
     'city',
     'county',
-    'office'
+    'office',
   ]
+
   return csv.map(row => {
-    const newRow = {}
-    cols.forEach(col => {
-      newRow[col] = row[col]
-    })
-    console.log('newRow', newRow)
+    const newRow = cols.map(col => ({
+      key: col,
+      value: row[col],
+    })).reduce((accum, next) => {
+      return Object.assign({}, accum, {
+        [next.key]: next.value
+      })
+    }, {})
+
     return newRow
   })
 }
 
 module.exports = csv => {
   const data = removeJunkRows(csv)
-  const candidates = addCandidateColumn(data)
+  const candidateNames = Object.keys(candidatesByParty)
+  const candidates = addCandidateColumn(data, candidateNames)
   const districts = addDistrictColumn(candidates)
-  const party = addPartyColumn(districts)
+  const party = addPartyColumn(districts, candidatesByParty)
   const votes = addVoteCountColumn(party)
   const cleaned = cleanCandidateNames(votes)
 
   const cities = breakUpByCity(cleaned)
   const newCsv = flattenCitiestoCsv(cities)
 
-
-  return newCsv
+  return removeRawCols(newCsv)
 }
-
 
 const candidatesByParty = {
   'buchanan': 'no party',

@@ -1,0 +1,1274 @@
+candidate,district,precinct,party,votes,city,county,office
+clinton,1,1,democ,195,arcadia,wayne,president
+clinton,1,2,democ,249,arcadia,wayne,president
+clinton,1,3,democ,208,arcadia,wayne,president
+clinton,1,4,democ,159,arcadia,wayne,president
+clinton,1,5,democ,178,arcadia,wayne,president
+clinton,1,6,democ,292,arcadia,wayne,president
+clinton,1,7,democ,181,arcadia,wayne,president
+clinton,1,8,democ,147,arcadia,wayne,president
+clinton,1,9,democ,166,arcadia,wayne,president
+clinton,1,10,democ,229,arcadia,wayne,president
+trump,1,1,repub,418,arcadia,wayne,president
+trump,1,2,repub,371,arcadia,wayne,president
+trump,1,3,repub,178,arcadia,wayne,president
+trump,1,4,repub,167,arcadia,wayne,president
+trump,1,5,repub,184,arcadia,wayne,president
+trump,1,6,repub,297,arcadia,wayne,president
+trump,1,7,repub,177,arcadia,wayne,president
+trump,1,8,repub,151,arcadia,wayne,president
+trump,1,9,repub,166,arcadia,wayne,president
+trump,1,10,repub,332,arcadia,wayne,president
+trump,1,1,conse,71,arcadia,wayne,president
+trump,1,2,conse,39,arcadia,wayne,president
+trump,1,3,conse,21,arcadia,wayne,president
+trump,1,4,conse,19,arcadia,wayne,president
+trump,1,5,conse,21,arcadia,wayne,president
+trump,1,6,conse,39,arcadia,wayne,president
+trump,1,7,conse,27,arcadia,wayne,president
+trump,1,2,conse,12,arcadia,wayne,president
+trump,1,9,conse,24,arcadia,wayne,president
+trump,1,10,conse,45,arcadia,wayne,president
+stein,1,1,green,9,arcadia,wayne,president
+stein,1,1,green,7,arcadia,wayne,president
+stein,1,3,green,11,arcadia,wayne,president
+stein,1,4,green,7,arcadia,wayne,president
+stein,1,5,green,2,arcadia,wayne,president
+stein,1,6,green,12,arcadia,wayne,president
+stein,1,7,green,7,arcadia,wayne,president
+stein,4,1,green,7,arcadia,wayne,president
+stein,1,9,green,10,arcadia,wayne,president
+stein,1,10,green,5,arcadia,wayne,president
+clinton,1,1,worki,9,arcadia,wayne,president
+clinton,2,1,worki,8,arcadia,wayne,president
+clinton,1,3,worki,3,arcadia,wayne,president
+clinton,1,4,worki,7,arcadia,wayne,president
+clinton,1,5,worki,7,arcadia,wayne,president
+clinton,1,6,worki,12,arcadia,wayne,president
+clinton,1,7,worki,3,arcadia,wayne,president
+clinton,1,8,worki,5,arcadia,wayne,president
+clinton,1,9,worki,6,arcadia,wayne,president
+clinton,1,10,worki,8,arcadia,wayne,president
+johnson,1,1,indep,38,arcadia,wayne,president
+johnson,1,2,indep,36,arcadia,wayne,president
+johnson,1,3,indep,21,arcadia,wayne,president
+johnson,1,4,indep,14,arcadia,wayne,president
+johnson,1,5,indep,13,arcadia,wayne,president
+johnson,1,6,indep,23,arcadia,wayne,president
+johnson,1,7,indep,21,arcadia,wayne,president
+johnson,1,8,indep,9,arcadia,wayne,president
+johnson,1,9,indep,18,arcadia,wayne,president
+johnson,1,10,indep,23,arcadia,wayne,president
+clinton,1,1,wome,1,arcadia,wayne,president
+clinton,1,2,wome,0,arcadia,wayne,president
+clinton,1,3,wome,8,arcadia,wayne,president
+clinton,1,4,wome,0,arcadia,wayne,president
+clinton,1,5,wome,1,arcadia,wayne,president
+clinton,1,6,wome,0,arcadia,wayne,president
+clinton,1,7,wome,4,arcadia,wayne,president
+clinton,1,8,wome,2,arcadia,wayne,president
+clinton,1,9,wome,2,arcadia,wayne,president
+clinton,1,10,wome,5,arcadia,wayne,president
+johnson,1,1,libert,9,arcadia,wayne,president
+johnson,2,2,libert,6,arcadia,wayne,president
+johnson,1,3,libert,4,arcadia,wayne,president
+johnson,1,4,libert,2,arcadia,wayne,president
+johnson,1,5,libert,8,arcadia,wayne,president
+johnson,1,6,libert,7,arcadia,wayne,president
+johnson,1,7,libert,5,arcadia,wayne,president
+johnson,1,8,libert,0,arcadia,wayne,president
+johnson,1,9,libert,4,arcadia,wayne,president
+johnson,1,10,libert,3,arcadia,wayne,president
+buchanan,1,1,no party,0,arcadia,wayne,president
+buchanan,1,2,no party,0,arcadia,wayne,president
+buchanan,1,3,no party,0,arcadia,wayne,president
+buchanan,1,4,no party,0,arcadia,wayne,president
+buchanan,1,5,no party,0,arcadia,wayne,president
+buchanan,1,6,no party,0,arcadia,wayne,president
+buchanan,1,7,no party,0,arcadia,wayne,president
+buchanan,1,8,no party,0,arcadia,wayne,president
+buchanan,1,9,no party,0,arcadia,wayne,president
+buchanan,1,10,no party,0,arcadia,wayne,president
+castle,1,1,no party,0,arcadia,wayne,president
+castle,1,2,no party,0,arcadia,wayne,president
+castle,1,3,no party,0,arcadia,wayne,president
+castle,1,4,no party,0,arcadia,wayne,president
+castle,1,5,no party,0,arcadia,wayne,president
+castle,1,6,no party,0,arcadia,wayne,president
+castle,1,7,no party,0,arcadia,wayne,president
+castle,1,8,no party,0,arcadia,wayne,president
+castle,1,9,no party,0,arcadia,wayne,president
+castle,1,10,no party,0,arcadia,wayne,president
+hoefling,1,1,no party,0,arcadia,wayne,president
+hoefling,1,2,no party,0,arcadia,wayne,president
+hoefling,1,3,no party,0,arcadia,wayne,president
+hoefling,1,4,no party,0,arcadia,wayne,president
+hoefling,1,5,no party,0,arcadia,wayne,president
+hoefling,1,6,no party,0,arcadia,wayne,president
+hoefling,1,7,no party,0,arcadia,wayne,president
+hoefling,1,8,no party,0,arcadia,wayne,president
+hoefling,1,9,no party,0,arcadia,wayne,president
+hoefling,1,10,no party,0,arcadia,wayne,president
+kahn,1,1,no party,0,arcadia,wayne,president
+kahn,1,2,no party,0,arcadia,wayne,president
+kahn,1,3,no party,0,arcadia,wayne,president
+kahn,1,4,no party,0,arcadia,wayne,president
+kahn,1,5,no party,0,arcadia,wayne,president
+kahn,1,6,no party,0,arcadia,wayne,president
+kahn,1,7,no party,0,arcadia,wayne,president
+kahn,1,8,no party,0,arcadia,wayne,president
+kahn,1,9,no party,0,arcadia,wayne,president
+kahn,1,10,no party,0,arcadia,wayne,president
+keniston,1,1,no party,0,arcadia,wayne,president
+keniston,1,2,no party,2,arcadia,wayne,president
+keniston,1,3,no party,0,arcadia,wayne,president
+keniston,1,4,no party,0,arcadia,wayne,president
+keniston,1,5,no party,0,arcadia,wayne,president
+keniston,1,6,no party,0,arcadia,wayne,president
+keniston,1,7,no party,0,arcadia,wayne,president
+keniston,1,8,no party,0,arcadia,wayne,president
+keniston,1,9,no party,0,arcadia,wayne,president
+keniston,1,10,no party,0,arcadia,wayne,president
+maturen,1,1,no party,0,arcadia,wayne,president
+maturen,1,2,no party,0,arcadia,wayne,president
+maturen,1,3,no party,0,arcadia,wayne,president
+maturen,1,4,no party,0,arcadia,wayne,president
+maturen,1,5,no party,0,arcadia,wayne,president
+maturen,1,6,no party,0,arcadia,wayne,president
+maturen,1,7,no party,0,arcadia,wayne,president
+maturen,1,8,no party,0,arcadia,wayne,president
+maturen,1,9,no party,0,arcadia,wayne,president
+maturen,1,10,no party,0,arcadia,wayne,president
+mcmullin,1,1,no party,0,arcadia,wayne,president
+mcmullin,1,2,no party,0,arcadia,wayne,president
+mcmullin,1,3,no party,2,arcadia,wayne,president
+mcmullin,1,4,no party,0,arcadia,wayne,president
+mcmullin,1,5,no party,0,arcadia,wayne,president
+mcmullin,1,6,no party,1,arcadia,wayne,president
+mcmullin,1,7,no party,3,arcadia,wayne,president
+mcmullin,1,8,no party,0,arcadia,wayne,president
+mcmullin,1,9,no party,0,arcadia,wayne,president
+mcmullin,1,10,no party,0,arcadia,wayne,president
+gyurko,1,1,no party,0,arcadia,wayne,president
+gyurko,1,2,no party,0,arcadia,wayne,president
+gyurko,1,3,no party,0,arcadia,wayne,president
+gyurko,1,4,no party,0,arcadia,wayne,president
+gyurko,1,5,no party,0,arcadia,wayne,president
+gyurko,1,6,no party,0,arcadia,wayne,president
+gyurko,1,7,no party,0,arcadia,wayne,president
+gyurko,1,8,no party,0,arcadia,wayne,president
+gyurko,1,9,no party,0,arcadia,wayne,president
+gyurko,1,10,no party,0,arcadia,wayne,president
+no party,1,1,no party,7,arcadia,wayne,president
+no party,1,1,no party,2,arcadia,wayne,president
+no party,1,3,no party,1,arcadia,wayne,president
+no party,1,4,no party,1,arcadia,wayne,president
+no party,1,5,no party,4,arcadia,wayne,president
+no party,1,6,no party,2,arcadia,wayne,president
+no party,1,7,no party,5,arcadia,wayne,president
+no party,1,8,no party,0,arcadia,wayne,president
+no party,1,9,no party,4,arcadia,wayne,president
+no party,1,10,no party,2,arcadia,wayne,president
+no party,1,1,no party,0,arcadia,wayne,president
+no party,1,2,no party,0,arcadia,wayne,president
+no party,1,3,no party,1,arcadia,wayne,president
+no party,1,4,no party,0,arcadia,wayne,president
+no party,1,5,no party,1,arcadia,wayne,president
+no party,1,6,no party,1,arcadia,wayne,president
+no party,1,7,no party,1,arcadia,wayne,president
+no party,1,8,no party,0,arcadia,wayne,president
+no party,1,9,no party,0,arcadia,wayne,president
+no party,1,10,no party,0,arcadia,wayne,president
+undervotes/blank,1,1,no party,7,arcadia,wayne,president
+undervotes/blank,1,2,no party,3,arcadia,wayne,president
+undervotes/blank,1,3,no party,1,arcadia,wayne,president
+undervotes/blank,1,4,no party,1,arcadia,wayne,president
+undervotes/blank,1,5,no party,4,arcadia,wayne,president
+undervotes/blank,1,6,no party,5,arcadia,wayne,president
+undervotes/blank,1,7,no party,3,arcadia,wayne,president
+undervotes/blank,1,8,no party,1,arcadia,wayne,president
+undervotes/blank,1,9,no party,3,arcadia,wayne,president
+undervotes/blank,1,10,no party,6,arcadia,wayne,president
+clinton,2,1,democ,141,butler,wayne,president
+trump,2,1,repub,384,butler,wayne,president
+trump,2,1,conse,60,butler,wayne,president
+stein,2,1,green,7,butler,wayne,president
+clinton,2,1,worki,6,butler,wayne,president
+johnson,2,1,indep,20,butler,wayne,president
+clinton,2,1,wome,1,butler,wayne,president
+johnson,2,1,libert,8,butler,wayne,president
+buchanan,2,1,no party,0,butler,wayne,president
+castle,2,1,no party,0,butler,wayne,president
+hoefling,2,1,no party,0,butler,wayne,president
+kahn,2,1,no party,0,butler,wayne,president
+keniston,2,1,no party,0,butler,wayne,president
+maturen,2,1,no party,0,butler,wayne,president
+mcmullin,2,1,no party,2,butler,wayne,president
+gyurko,2,1,no party,0,butler,wayne,president
+no party,2,1,no party,2,butler,wayne,president
+no party,2,1,no party,5,butler,wayne,president
+undervotes/blank,2,1,no party,3,butler,wayne,president
+clinton,3,1,democ,120,galen,wayne,president
+clinton,3,2,democ,103,galen,wayne,president
+clinton,3,3,democ,153,galen,wayne,president
+clinton,3,4,democ,144,galen,wayne,president
+trump,3,1,repub,227,galen,wayne,president
+trump,3,2,repub,213,galen,wayne,president
+trump,3,3,repub,202,galen,wayne,president
+trump,3,4,repub,174,galen,wayne,president
+trump,3,1,conse,31,galen,wayne,president
+trump,11,2,conse,26,galen,wayne,president
+trump,11,3,conse,32,galen,wayne,president
+trump,3,4,conse,16,galen,wayne,president
+stein,3,1,green,8,galen,wayne,president
+stein,1,1,green,7,galen,wayne,president
+stein,3,3,green,3,galen,wayne,president
+stein,2,1,green,6,galen,wayne,president
+clinton,1,1,worki,5,galen,wayne,president
+clinton,2,1,worki,6,galen,wayne,president
+clinton,2,1,worki,6,galen,wayne,president
+clinton,3,4,worki,5,galen,wayne,president
+johnson,6,1,indep,11,galen,wayne,president
+johnson,5,1,indep,13,galen,wayne,president
+johnson,3,3,indep,2,galen,wayne,president
+johnson,3,4,indep,10,galen,wayne,president
+clinton,3,1,wome,3,galen,wayne,president
+clinton,3,2,wome,1,galen,wayne,president
+clinton,3,3,wome,0,galen,wayne,president
+clinton,3,4,wome,1,galen,wayne,president
+johnson,3,1,libert,3,galen,wayne,president
+johnson,3,2,libert,3,galen,wayne,president
+johnson,2,1,libert,6,galen,wayne,president
+johnson,3,4,libert,1,galen,wayne,president
+buchanan,3,1,no party,0,galen,wayne,president
+buchanan,3,2,no party,0,galen,wayne,president
+buchanan,3,3,no party,0,galen,wayne,president
+buchanan,3,4,no party,0,galen,wayne,president
+castle,3,1,no party,0,galen,wayne,president
+castle,3,2,no party,0,galen,wayne,president
+castle,3,3,no party,0,galen,wayne,president
+castle,3,4,no party,0,galen,wayne,president
+hoefling,3,1,no party,0,galen,wayne,president
+hoefling,3,2,no party,0,galen,wayne,president
+hoefling,3,3,no party,0,galen,wayne,president
+hoefling,3,4,no party,0,galen,wayne,president
+kahn,3,1,no party,0,galen,wayne,president
+kahn,3,2,no party,0,galen,wayne,president
+kahn,3,3,no party,0,galen,wayne,president
+kahn,3,4,no party,0,galen,wayne,president
+keniston,3,1,no party,0,galen,wayne,president
+keniston,3,2,no party,0,galen,wayne,president
+keniston,3,3,no party,0,galen,wayne,president
+keniston,3,4,no party,0,galen,wayne,president
+maturen,3,1,no party,0,galen,wayne,president
+maturen,3,2,no party,0,galen,wayne,president
+maturen,3,3,no party,0,galen,wayne,president
+maturen,3,4,no party,0,galen,wayne,president
+mcmullin,3,1,no party,1,galen,wayne,president
+mcmullin,1,1,no party,3,galen,wayne,president
+mcmullin,3,3,no party,0,galen,wayne,president
+mcmullin,3,4,no party,2,galen,wayne,president
+gyurko,3,1,no party,0,galen,wayne,president
+gyurko,3,2,no party,0,galen,wayne,president
+gyurko,3,3,no party,0,galen,wayne,president
+gyurko,3,4,no party,0,galen,wayne,president
+no party,2,1,no party,3,galen,wayne,president
+no party,1,1,no party,2,galen,wayne,president
+no party,1,1,no party,2,galen,wayne,president
+no party,3,4,no party,2,galen,wayne,president
+no party,3,1,no party,0,galen,wayne,president
+no party,3,2,no party,0,galen,wayne,president
+no party,3,3,no party,0,galen,wayne,president
+no party,3,4,no party,0,galen,wayne,president
+undervotes/blank,1,2,no party,3,galen,wayne,president
+undervotes/blank,3,2,no party,3,galen,wayne,president
+undervotes/blank,3,3,no party,11,galen,wayne,president
+undervotes/blank,3,4,no party,3,galen,wayne,president
+clinton,4,1,democ,132,huron,wayne,president
+clinton,4,2,democ,159,huron,wayne,president
+trump,4,1,repub,217,huron,wayne,president
+trump,4,2,repub,276,huron,wayne,president
+trump,4,1,conse,44,huron,wayne,president
+trump,4,2,conse,42,huron,wayne,president
+stein,4,1,green,8,huron,wayne,president
+stein,4,2,green,5,huron,wayne,president
+clinton,4,1,worki,3,huron,wayne,president
+clinton,4,2,worki,3,huron,wayne,president
+johnson,4,1,indep,19,huron,wayne,president
+johnson,4,2,indep,21,huron,wayne,president
+clinton,4,1,wome,1,huron,wayne,president
+clinton,4,2,wome,1,huron,wayne,president
+johnson,4,1,libert,5,huron,wayne,president
+johnson,4,2,libert,2,huron,wayne,president
+buchanan,4,1,no party,0,huron,wayne,president
+buchanan,4,2,no party,0,huron,wayne,president
+castle,4,1,no party,0,huron,wayne,president
+castle,4,2,no party,0,huron,wayne,president
+hoefling,4,1,no party,0,huron,wayne,president
+hoefling,4,2,no party,0,huron,wayne,president
+kahn,4,1,no party,0,huron,wayne,president
+kahn,4,2,no party,0,huron,wayne,president
+keniston,4,1,no party,0,huron,wayne,president
+keniston,4,2,no party,0,huron,wayne,president
+maturen,4,1,no party,0,huron,wayne,president
+maturen,4,2,no party,0,huron,wayne,president
+mcmullin,4,1,no party,0,huron,wayne,president
+mcmullin,4,2,no party,2,huron,wayne,president
+gyurko,4,1,no party,0,huron,wayne,president
+gyurko,4,2,no party,0,huron,wayne,president
+no party,4,1,no party,1,huron,wayne,president
+no party,4,2,no party,1,huron,wayne,president
+no party,4,1,no party,0,huron,wayne,president
+no party,4,2,no party,0,huron,wayne,president
+undervotes/blank,4,1,no party,2,huron,wayne,president
+undervotes/blank,4,2,no party,3,huron,wayne,president
+clinton,5,1,democ,141,lyons,wayne,president
+clinton,5,2,no party,10,lyons,wayne,president
+clinton,5,3,no party,19,lyons,wayne,president
+clinton,5,4,no party,13,lyons,wayne,president
+clinton,5,5,no party,9,lyons,wayne,president
+trump,5,1,repub,225,lyons,wayne,president
+trump,5,2,no party,13,lyons,wayne,president
+trump,5,3,no party,8,lyons,wayne,president
+trump,5,4,no party,14,lyons,wayne,president
+trump,5,5,no party,17,lyons,wayne,president
+trump,5,1,conse,31,lyons,wayne,president
+trump,5,2,no party,2,lyons,wayne,president
+trump,5,3,no party,1,lyons,wayne,president
+trump,5,4,no party,0,lyons,wayne,president
+trump,5,5,no party,4,lyons,wayne,president
+stein,5,1,green,6,lyons,wayne,president
+stein,5,2,no party,0,lyons,wayne,president
+stein,5,3,no party,0,lyons,wayne,president
+stein,5,4,no party,0,lyons,wayne,president
+stein,5,5,no party,0,lyons,wayne,president
+clinton,5,1,worki,5,lyons,wayne,president
+clinton,5,2,no party,1,lyons,wayne,president
+clinton,5,3,no party,2,lyons,wayne,president
+clinton,5,4,no party,1,lyons,wayne,president
+clinton,5,5,no party,0,lyons,wayne,president
+johnson,5,1,indep,9,lyons,wayne,president
+johnson,5,2,no party,1,lyons,wayne,president
+johnson,5,3,no party,1,lyons,wayne,president
+johnson,5,4,no party,2,lyons,wayne,president
+johnson,5,5,no party,2,lyons,wayne,president
+clinton,5,1,wome,4,lyons,wayne,president
+clinton,5,2,no party,0,lyons,wayne,president
+clinton,5,3,no party,0,lyons,wayne,president
+clinton,5,4,no party,1,lyons,wayne,president
+clinton,5,5,no party,1,lyons,wayne,president
+johnson,5,1,libert,3,lyons,wayne,president
+johnson,5,2,no party,0,lyons,wayne,president
+johnson,5,3,no party,0,lyons,wayne,president
+johnson,5,4,no party,1,lyons,wayne,president
+johnson,5,5,no party,1,lyons,wayne,president
+buchanan,5,1,no party,0,lyons,wayne,president
+buchanan,5,2,no party,0,lyons,wayne,president
+buchanan,5,3,no party,0,lyons,wayne,president
+buchanan,5,4,no party,0,lyons,wayne,president
+buchanan,5,5,no party,0,lyons,wayne,president
+castle,5,1,no party,0,lyons,wayne,president
+castle,5,2,no party,0,lyons,wayne,president
+castle,5,3,no party,0,lyons,wayne,president
+castle,5,4,no party,0,lyons,wayne,president
+castle,5,5,no party,0,lyons,wayne,president
+hoefling,5,1,no party,0,lyons,wayne,president
+hoefling,5,2,no party,0,lyons,wayne,president
+hoefling,5,3,no party,0,lyons,wayne,president
+hoefling,5,4,no party,0,lyons,wayne,president
+hoefling,5,5,no party,0,lyons,wayne,president
+kahn,5,1,no party,0,lyons,wayne,president
+kahn,5,2,no party,0,lyons,wayne,president
+kahn,5,3,no party,0,lyons,wayne,president
+kahn,5,4,no party,0,lyons,wayne,president
+kahn,5,5,no party,0,lyons,wayne,president
+keniston,5,1,no party,0,lyons,wayne,president
+keniston,5,2,no party,0,lyons,wayne,president
+keniston,5,3,no party,0,lyons,wayne,president
+keniston,5,4,no party,0,lyons,wayne,president
+keniston,5,5,no party,0,lyons,wayne,president
+maturen,5,1,no party,0,lyons,wayne,president
+maturen,5,2,no party,0,lyons,wayne,president
+maturen,5,3,no party,0,lyons,wayne,president
+maturen,5,4,no party,0,lyons,wayne,president
+maturen,5,5,no party,0,lyons,wayne,president
+mcmullin,5,1,no party,1,lyons,wayne,president
+mcmullin,5,2,no party,0,lyons,wayne,president
+mcmullin,5,3,no party,0,lyons,wayne,president
+mcmullin,5,4,no party,0,lyons,wayne,president
+mcmullin,5,5,no party,0,lyons,wayne,president
+gyurko,5,1,no party,0,lyons,wayne,president
+gyurko,5,2,no party,0,lyons,wayne,president
+gyurko,5,3,no party,0,lyons,wayne,president
+gyurko,5,4,no party,0,lyons,wayne,president
+gyurko,5,5,no party,0,lyons,wayne,president
+no party,5,1,no party,2,lyons,wayne,president
+no party,5,2,no party,0,lyons,wayne,president
+no party,5,3,no party,0,lyons,wayne,president
+no party,5,4,no party,0,lyons,wayne,president
+no party,5,5,no party,1,lyons,wayne,president
+no party,5,1,no party,0,lyons,wayne,president
+no party,5,2,no party,0,lyons,wayne,president
+no party,5,3,no party,1,lyons,wayne,president
+no party,5,4,no party,0,lyons,wayne,president
+no party,5,5,no party,0,lyons,wayne,president
+undervotes/blank,5,1,no party,6,lyons,wayne,president
+undervotes/blank,5,2,no party,1,lyons,wayne,president
+undervotes/blank,5,3,no party,3,lyons,wayne,president
+undervotes/blank,5,4,no party,1,lyons,wayne,president
+undervotes/blank,5,5,no party,0,lyons,wayne,president
+clinton,6,1,no party,18,macedon,wayne,president
+clinton,6,2,no party,22,macedon,wayne,president
+clinton,6,3,no party,33,macedon,wayne,president
+clinton,6,4,no party,13,macedon,wayne,president
+clinton,6,5,no party,10,macedon,wayne,president
+trump,6,1,no party,20,macedon,wayne,president
+trump,6,2,no party,28,macedon,wayne,president
+trump,6,3,no party,48,macedon,wayne,president
+trump,6,4,no party,17,macedon,wayne,president
+trump,6,5,no party,14,macedon,wayne,president
+trump,6,1,no party,5,macedon,wayne,president
+trump,6,2,no party,8,macedon,wayne,president
+trump,6,3,no party,2,macedon,wayne,president
+trump,6,4,no party,5,macedon,wayne,president
+trump,6,5,no party,2,macedon,wayne,president
+stein,6,1,no party,2,macedon,wayne,president
+stein,6,2,no party,0,macedon,wayne,president
+stein,6,3,no party,2,macedon,wayne,president
+stein,6,4,no party,0,macedon,wayne,president
+stein,6,5,no party,1,macedon,wayne,president
+clinton,6,1,no party,0,macedon,wayne,president
+clinton,6,2,no party,0,macedon,wayne,president
+clinton,6,3,no party,0,macedon,wayne,president
+clinton,6,4,no party,0,macedon,wayne,president
+clinton,6,5,no party,0,macedon,wayne,president
+johnson,6,1,no party,1,macedon,wayne,president
+johnson,6,2,no party,5,macedon,wayne,president
+johnson,6,3,no party,1,macedon,wayne,president
+johnson,6,4,no party,1,macedon,wayne,president
+johnson,6,5,no party,1,macedon,wayne,president
+clinton,6,1,no party,1,macedon,wayne,president
+clinton,6,2,no party,0,macedon,wayne,president
+clinton,6,3,no party,0,macedon,wayne,president
+clinton,6,4,no party,0,macedon,wayne,president
+clinton,6,5,no party,0,macedon,wayne,president
+johnson,6,1,no party,1,macedon,wayne,president
+johnson,6,2,no party,0,macedon,wayne,president
+johnson,6,3,no party,0,macedon,wayne,president
+johnson,6,4,no party,1,macedon,wayne,president
+johnson,6,5,no party,1,macedon,wayne,president
+buchanan,6,1,no party,0,macedon,wayne,president
+buchanan,6,2,no party,0,macedon,wayne,president
+buchanan,6,3,no party,0,macedon,wayne,president
+buchanan,6,4,no party,0,macedon,wayne,president
+buchanan,6,5,no party,0,macedon,wayne,president
+castle,6,1,no party,0,macedon,wayne,president
+castle,6,2,no party,0,macedon,wayne,president
+castle,6,3,no party,0,macedon,wayne,president
+castle,6,4,no party,0,macedon,wayne,president
+castle,6,5,no party,0,macedon,wayne,president
+hoefling,6,1,no party,0,macedon,wayne,president
+hoefling,6,2,no party,0,macedon,wayne,president
+hoefling,6,3,no party,0,macedon,wayne,president
+hoefling,6,4,no party,0,macedon,wayne,president
+hoefling,6,5,no party,0,macedon,wayne,president
+kahn,6,1,no party,0,macedon,wayne,president
+kahn,6,2,no party,0,macedon,wayne,president
+kahn,6,3,no party,0,macedon,wayne,president
+kahn,6,4,no party,0,macedon,wayne,president
+kahn,6,5,no party,0,macedon,wayne,president
+keniston,6,1,no party,0,macedon,wayne,president
+keniston,6,2,no party,0,macedon,wayne,president
+keniston,6,3,no party,0,macedon,wayne,president
+keniston,6,4,no party,0,macedon,wayne,president
+keniston,6,5,no party,0,macedon,wayne,president
+maturen,6,1,no party,0,macedon,wayne,president
+maturen,6,2,no party,0,macedon,wayne,president
+maturen,6,3,no party,0,macedon,wayne,president
+maturen,6,4,no party,0,macedon,wayne,president
+maturen,6,5,no party,0,macedon,wayne,president
+mcmullin,6,1,no party,1,macedon,wayne,president
+mcmullin,6,2,no party,0,macedon,wayne,president
+mcmullin,6,3,no party,0,macedon,wayne,president
+mcmullin,6,4,no party,0,macedon,wayne,president
+mcmullin,6,5,no party,1,macedon,wayne,president
+gyurko,6,1,no party,0,macedon,wayne,president
+gyurko,6,2,no party,0,macedon,wayne,president
+gyurko,6,3,no party,0,macedon,wayne,president
+gyurko,6,4,no party,0,macedon,wayne,president
+gyurko,6,5,no party,0,macedon,wayne,president
+no party,6,1,no party,1,macedon,wayne,president
+no party,6,2,no party,1,macedon,wayne,president
+no party,6,3,no party,1,macedon,wayne,president
+no party,6,4,no party,0,macedon,wayne,president
+no party,6,5,no party,0,macedon,wayne,president
+no party,6,1,no party,0,macedon,wayne,president
+no party,6,2,no party,1,macedon,wayne,president
+no party,6,3,no party,1,macedon,wayne,president
+no party,6,4,no party,0,macedon,wayne,president
+no party,6,5,no party,1,macedon,wayne,president
+undervotes/blank,6,1,no party,1,macedon,wayne,president
+undervotes/blank,6,2,no party,3,macedon,wayne,president
+undervotes/blank,6,3,no party,3,macedon,wayne,president
+undervotes/blank,6,4,no party,0,macedon,wayne,president
+undervotes/blank,6,5,no party,0,macedon,wayne,president
+clinton,7,1,no party,8,marion,wayne,president
+clinton,7,2,no party,6,marion,wayne,president
+clinton,7,3,no party,10,marion,wayne,president
+clinton,7,4,no party,6,marion,wayne,president
+trump,7,1,no party,9,marion,wayne,president
+trump,7,2,no party,6,marion,wayne,president
+trump,7,3,no party,15,marion,wayne,president
+trump,7,4,no party,14,marion,wayne,president
+trump,7,1,no party,5,marion,wayne,president
+trump,7,2,no party,4,marion,wayne,president
+trump,7,3,no party,0,marion,wayne,president
+trump,7,4,no party,1,marion,wayne,president
+stein,7,1,no party,0,marion,wayne,president
+stein,7,2,no party,0,marion,wayne,president
+stein,7,3,no party,0,marion,wayne,president
+stein,7,4,no party,2,marion,wayne,president
+clinton,7,1,no party,0,marion,wayne,president
+clinton,7,2,no party,0,marion,wayne,president
+clinton,7,3,no party,0,marion,wayne,president
+clinton,7,4,no party,1,marion,wayne,president
+johnson,7,1,no party,0,marion,wayne,president
+johnson,7,2,no party,0,marion,wayne,president
+johnson,7,3,no party,0,marion,wayne,president
+johnson,7,4,no party,0,marion,wayne,president
+clinton,7,1,no party,0,marion,wayne,president
+clinton,7,2,no party,0,marion,wayne,president
+clinton,7,3,no party,0,marion,wayne,president
+clinton,7,4,no party,0,marion,wayne,president
+johnson,7,1,no party,0,marion,wayne,president
+johnson,7,2,no party,0,marion,wayne,president
+johnson,7,3,no party,0,marion,wayne,president
+johnson,7,4,no party,0,marion,wayne,president
+buchanan,7,1,no party,0,marion,wayne,president
+buchanan,7,2,no party,0,marion,wayne,president
+buchanan,7,3,no party,0,marion,wayne,president
+buchanan,7,4,no party,0,marion,wayne,president
+castle,7,1,no party,0,marion,wayne,president
+castle,7,2,no party,0,marion,wayne,president
+castle,7,3,no party,0,marion,wayne,president
+castle,7,4,no party,0,marion,wayne,president
+hoefling,7,1,no party,0,marion,wayne,president
+hoefling,7,2,no party,0,marion,wayne,president
+hoefling,7,3,no party,0,marion,wayne,president
+hoefling,7,4,no party,0,marion,wayne,president
+kahn,7,1,no party,0,marion,wayne,president
+kahn,7,2,no party,0,marion,wayne,president
+kahn,7,3,no party,0,marion,wayne,president
+kahn,7,4,no party,0,marion,wayne,president
+keniston,7,1,no party,0,marion,wayne,president
+keniston,7,2,no party,0,marion,wayne,president
+keniston,7,3,no party,0,marion,wayne,president
+keniston,7,4,no party,0,marion,wayne,president
+maturen,7,1,no party,0,marion,wayne,president
+maturen,7,2,no party,0,marion,wayne,president
+maturen,7,3,no party,0,marion,wayne,president
+maturen,7,4,no party,0,marion,wayne,president
+mcmullin,7,1,no party,0,marion,wayne,president
+mcmullin,7,2,no party,0,marion,wayne,president
+mcmullin,7,3,no party,0,marion,wayne,president
+mcmullin,7,4,no party,0,marion,wayne,president
+gyurko,7,1,no party,0,marion,wayne,president
+gyurko,7,2,no party,0,marion,wayne,president
+gyurko,7,3,no party,0,marion,wayne,president
+gyurko,7,4,no party,0,marion,wayne,president
+no party,7,1,no party,0,marion,wayne,president
+no party,7,2,no party,0,marion,wayne,president
+no party,7,3,no party,0,marion,wayne,president
+no party,7,4,no party,0,marion,wayne,president
+no party,7,1,no party,0,marion,wayne,president
+no party,7,2,no party,0,marion,wayne,president
+no party,7,3,no party,0,marion,wayne,president
+no party,7,4,no party,0,marion,wayne,president
+undervotes/blank,7,1,no party,0,marion,wayne,president
+undervotes/blank,7,2,no party,0,marion,wayne,president
+undervotes/blank,7,3,no party,0,marion,wayne,president
+undervotes/blank,7,4,no party,2,marion,wayne,president
+clinton,8,1,no party,5,ontario,wayne,president
+clinton,8,2,no party,29,ontario,wayne,president
+clinton,8,3,no party,13,ontario,wayne,president
+clinton,8,4,no party,13,ontario,wayne,president
+clinton,8,5,no party,11,ontario,wayne,president
+clinton,8,6,no party,24,ontario,wayne,president
+trump,8,1,no party,25,ontario,wayne,president
+trump,8,2,no party,17,ontario,wayne,president
+trump,8,3,no party,30,ontario,wayne,president
+trump,8,4,no party,12,ontario,wayne,president
+trump,8,5,no party,11,ontario,wayne,president
+trump,8,6,no party,28,ontario,wayne,president
+trump,8,1,no party,6,ontario,wayne,president
+trump,8,2,no party,3,ontario,wayne,president
+trump,8,3,no party,5,ontario,wayne,president
+trump,8,4,no party,2,ontario,wayne,president
+trump,8,5,no party,3,ontario,wayne,president
+trump,8,6,no party,4,ontario,wayne,president
+stein,8,1,no party,1,ontario,wayne,president
+stein,8,2,no party,0,ontario,wayne,president
+stein,8,3,no party,0,ontario,wayne,president
+stein,8,4,no party,0,ontario,wayne,president
+stein,8,5,no party,0,ontario,wayne,president
+stein,8,6,no party,0,ontario,wayne,president
+clinton,8,1,no party,0,ontario,wayne,president
+clinton,8,2,no party,1,ontario,wayne,president
+clinton,8,3,no party,2,ontario,wayne,president
+clinton,8,4,no party,0,ontario,wayne,president
+clinton,8,5,no party,0,ontario,wayne,president
+clinton,8,6,no party,1,ontario,wayne,president
+johnson,8,1,no party,0,ontario,wayne,president
+johnson,8,2,no party,3,ontario,wayne,president
+johnson,8,3,no party,2,ontario,wayne,president
+johnson,8,4,no party,2,ontario,wayne,president
+johnson,8,5,no party,2,ontario,wayne,president
+johnson,8,6,no party,3,ontario,wayne,president
+clinton,8,1,no party,0,ontario,wayne,president
+clinton,8,2,no party,0,ontario,wayne,president
+clinton,8,3,no party,0,ontario,wayne,president
+clinton,8,4,no party,0,ontario,wayne,president
+clinton,8,5,no party,0,ontario,wayne,president
+clinton,8,6,no party,0,ontario,wayne,president
+johnson,8,1,no party,1,ontario,wayne,president
+johnson,8,2,no party,1,ontario,wayne,president
+johnson,8,3,no party,1,ontario,wayne,president
+johnson,8,4,no party,0,ontario,wayne,president
+johnson,8,5,no party,1,ontario,wayne,president
+johnson,8,6,no party,3,ontario,wayne,president
+buchanan,8,1,no party,0,ontario,wayne,president
+buchanan,8,2,no party,0,ontario,wayne,president
+buchanan,8,3,no party,0,ontario,wayne,president
+buchanan,8,4,no party,0,ontario,wayne,president
+buchanan,8,5,no party,0,ontario,wayne,president
+buchanan,8,6,no party,0,ontario,wayne,president
+castle,8,1,no party,0,ontario,wayne,president
+castle,8,2,no party,0,ontario,wayne,president
+castle,8,3,no party,0,ontario,wayne,president
+castle,8,4,no party,0,ontario,wayne,president
+castle,8,5,no party,0,ontario,wayne,president
+castle,8,6,no party,0,ontario,wayne,president
+hoefling,8,1,no party,0,ontario,wayne,president
+hoefling,8,2,no party,0,ontario,wayne,president
+hoefling,8,3,no party,0,ontario,wayne,president
+hoefling,8,4,no party,0,ontario,wayne,president
+hoefling,8,5,no party,0,ontario,wayne,president
+hoefling,8,6,no party,0,ontario,wayne,president
+kahn,8,1,no party,0,ontario,wayne,president
+kahn,8,2,no party,0,ontario,wayne,president
+kahn,8,3,no party,0,ontario,wayne,president
+kahn,8,4,no party,0,ontario,wayne,president
+kahn,8,5,no party,0,ontario,wayne,president
+kahn,8,6,no party,0,ontario,wayne,president
+keniston,8,1,no party,0,ontario,wayne,president
+keniston,8,2,no party,0,ontario,wayne,president
+keniston,8,3,no party,0,ontario,wayne,president
+keniston,8,4,no party,0,ontario,wayne,president
+keniston,8,5,no party,0,ontario,wayne,president
+keniston,8,6,no party,0,ontario,wayne,president
+maturen,8,1,no party,0,ontario,wayne,president
+maturen,8,2,no party,0,ontario,wayne,president
+maturen,8,3,no party,0,ontario,wayne,president
+maturen,8,4,no party,0,ontario,wayne,president
+maturen,8,5,no party,0,ontario,wayne,president
+maturen,8,6,no party,0,ontario,wayne,president
+mcmullin,8,1,no party,1,ontario,wayne,president
+mcmullin,8,2,no party,0,ontario,wayne,president
+mcmullin,8,3,no party,0,ontario,wayne,president
+mcmullin,8,4,no party,1,ontario,wayne,president
+mcmullin,8,5,no party,0,ontario,wayne,president
+mcmullin,8,6,no party,0,ontario,wayne,president
+gyurko,8,1,no party,0,ontario,wayne,president
+gyurko,8,2,no party,0,ontario,wayne,president
+gyurko,8,3,no party,0,ontario,wayne,president
+gyurko,8,4,no party,0,ontario,wayne,president
+gyurko,8,5,no party,0,ontario,wayne,president
+gyurko,8,6,no party,0,ontario,wayne,president
+no party,8,1,no party,0,ontario,wayne,president
+no party,8,2,no party,0,ontario,wayne,president
+no party,8,3,no party,0,ontario,wayne,president
+no party,8,4,no party,2,ontario,wayne,president
+no party,8,5,no party,0,ontario,wayne,president
+no party,8,6,no party,0,ontario,wayne,president
+no party,8,1,no party,0,ontario,wayne,president
+no party,8,2,no party,0,ontario,wayne,president
+no party,8,3,no party,0,ontario,wayne,president
+no party,8,4,no party,0,ontario,wayne,president
+no party,8,5,no party,1,ontario,wayne,president
+no party,8,6,no party,0,ontario,wayne,president
+undervotes/blank,8,1,no party,1,ontario,wayne,president
+undervotes/blank,8,2,no party,1,ontario,wayne,president
+undervotes/blank,8,3,no party,3,ontario,wayne,president
+undervotes/blank,8,4,no party,1,ontario,wayne,president
+undervotes/blank,8,5,no party,0,ontario,wayne,president
+undervotes/blank,8,6,no party,1,ontario,wayne,president
+clinton,9,1,no party,12,palmyra,wayne,president
+clinton,9,2,no party,12,palmyra,wayne,president
+clinton,9,3,no party,14,palmyra,wayne,president
+clinton,9,4,no party,12,palmyra,wayne,president
+clinton,9,5,no party,5,palmyra,wayne,president
+clinton,9,6,no party,14,palmyra,wayne,president
+trump,9,1,no party,15,palmyra,wayne,president
+trump,9,2,no party,9,palmyra,wayne,president
+trump,9,3,no party,6,palmyra,wayne,president
+trump,9,4,no party,11,palmyra,wayne,president
+trump,9,5,no party,21,palmyra,wayne,president
+trump,9,6,no party,16,palmyra,wayne,president
+trump,9,1,no party,2,palmyra,wayne,president
+trump,9,2,no party,3,palmyra,wayne,president
+trump,9,3,no party,0,palmyra,wayne,president
+trump,9,4,no party,2,palmyra,wayne,president
+trump,9,5,no party,3,palmyra,wayne,president
+trump,9,6,no party,5,palmyra,wayne,president
+stein,9,1,no party,0,palmyra,wayne,president
+stein,9,2,no party,0,palmyra,wayne,president
+stein,9,3,no party,1,palmyra,wayne,president
+stein,9,4,no party,1,palmyra,wayne,president
+stein,9,5,no party,0,palmyra,wayne,president
+stein,9,6,no party,0,palmyra,wayne,president
+clinton,9,1,no party,0,palmyra,wayne,president
+clinton,9,2,no party,0,palmyra,wayne,president
+clinton,9,3,no party,0,palmyra,wayne,president
+clinton,9,4,no party,0,palmyra,wayne,president
+clinton,9,5,no party,0,palmyra,wayne,president
+clinton,9,6,no party,1,palmyra,wayne,president
+johnson,9,1,no party,2,palmyra,wayne,president
+johnson,9,2,no party,1,palmyra,wayne,president
+johnson,9,3,no party,4,palmyra,wayne,president
+johnson,9,4,no party,0,palmyra,wayne,president
+johnson,9,5,no party,1,palmyra,wayne,president
+johnson,9,6,no party,2,palmyra,wayne,president
+clinton,9,1,no party,0,palmyra,wayne,president
+clinton,9,2,no party,0,palmyra,wayne,president
+clinton,9,3,no party,0,palmyra,wayne,president
+clinton,9,4,no party,0,palmyra,wayne,president
+clinton,9,5,no party,2,palmyra,wayne,president
+clinton,9,6,no party,0,palmyra,wayne,president
+johnson,9,1,no party,1,palmyra,wayne,president
+johnson,9,2,no party,0,palmyra,wayne,president
+johnson,9,3,no party,1,palmyra,wayne,president
+johnson,9,4,no party,0,palmyra,wayne,president
+johnson,9,5,no party,0,palmyra,wayne,president
+johnson,9,6,no party,1,palmyra,wayne,president
+buchanan,9,1,no party,0,palmyra,wayne,president
+buchanan,9,2,no party,0,palmyra,wayne,president
+buchanan,9,3,no party,0,palmyra,wayne,president
+buchanan,9,4,no party,0,palmyra,wayne,president
+buchanan,9,5,no party,0,palmyra,wayne,president
+buchanan,9,6,no party,0,palmyra,wayne,president
+castle,9,1,no party,0,palmyra,wayne,president
+castle,9,2,no party,0,palmyra,wayne,president
+castle,9,3,no party,0,palmyra,wayne,president
+castle,9,4,no party,0,palmyra,wayne,president
+castle,9,5,no party,0,palmyra,wayne,president
+castle,9,6,no party,0,palmyra,wayne,president
+hoefling,9,1,no party,0,palmyra,wayne,president
+hoefling,9,2,no party,0,palmyra,wayne,president
+hoefling,9,3,no party,0,palmyra,wayne,president
+hoefling,9,4,no party,0,palmyra,wayne,president
+hoefling,9,5,no party,0,palmyra,wayne,president
+hoefling,9,6,no party,0,palmyra,wayne,president
+kahn,9,1,no party,0,palmyra,wayne,president
+kahn,9,2,no party,0,palmyra,wayne,president
+kahn,9,3,no party,0,palmyra,wayne,president
+kahn,9,4,no party,0,palmyra,wayne,president
+kahn,9,5,no party,0,palmyra,wayne,president
+kahn,9,6,no party,0,palmyra,wayne,president
+keniston,9,1,no party,0,palmyra,wayne,president
+keniston,9,2,no party,0,palmyra,wayne,president
+keniston,9,3,no party,0,palmyra,wayne,president
+keniston,9,4,no party,0,palmyra,wayne,president
+keniston,9,5,no party,0,palmyra,wayne,president
+keniston,9,6,no party,0,palmyra,wayne,president
+maturen,9,1,no party,0,palmyra,wayne,president
+maturen,9,2,no party,0,palmyra,wayne,president
+maturen,9,3,no party,0,palmyra,wayne,president
+maturen,9,4,no party,0,palmyra,wayne,president
+maturen,9,5,no party,0,palmyra,wayne,president
+maturen,9,6,no party,0,palmyra,wayne,president
+mcmullin,9,1,no party,0,palmyra,wayne,president
+mcmullin,9,2,no party,0,palmyra,wayne,president
+mcmullin,9,3,no party,0,palmyra,wayne,president
+mcmullin,9,4,no party,0,palmyra,wayne,president
+mcmullin,9,5,no party,0,palmyra,wayne,president
+mcmullin,9,6,no party,1,palmyra,wayne,president
+gyurko,9,1,no party,0,palmyra,wayne,president
+gyurko,9,2,no party,0,palmyra,wayne,president
+gyurko,9,3,no party,0,palmyra,wayne,president
+gyurko,9,4,no party,0,palmyra,wayne,president
+gyurko,9,5,no party,0,palmyra,wayne,president
+gyurko,9,6,no party,0,palmyra,wayne,president
+no party,9,1,no party,0,palmyra,wayne,president
+no party,9,2,no party,0,palmyra,wayne,president
+no party,9,3,no party,0,palmyra,wayne,president
+no party,9,4,no party,0,palmyra,wayne,president
+no party,9,5,no party,0,palmyra,wayne,president
+no party,9,6,no party,0,palmyra,wayne,president
+no party,9,1,no party,0,palmyra,wayne,president
+no party,9,2,no party,0,palmyra,wayne,president
+no party,9,3,no party,0,palmyra,wayne,president
+no party,9,4,no party,0,palmyra,wayne,president
+no party,9,5,no party,1,palmyra,wayne,president
+no party,9,6,no party,0,palmyra,wayne,president
+undervotes/blank,9,1,no party,1,palmyra,wayne,president
+undervotes/blank,9,2,no party,1,palmyra,wayne,president
+undervotes/blank,9,3,no party,0,palmyra,wayne,president
+undervotes/blank,9,4,no party,1,palmyra,wayne,president
+undervotes/blank,9,5,no party,0,palmyra,wayne,president
+undervotes/blank,9,6,no party,2,palmyra,wayne,president
+clinton,10,1,no party,4,rose,wayne,president
+clinton,10,2,no party,13,rose,wayne,president
+trump,10,1,no party,15,rose,wayne,president
+trump,10,2,no party,15,rose,wayne,president
+trump,10,1,no party,1,rose,wayne,president
+trump,10,2,no party,2,rose,wayne,president
+stein,10,1,no party,0,rose,wayne,president
+stein,10,2,no party,2,rose,wayne,president
+clinton,10,1,no party,0,rose,wayne,president
+clinton,10,2,no party,0,rose,wayne,president
+johnson,10,1,no party,2,rose,wayne,president
+johnson,10,2,no party,1,rose,wayne,president
+clinton,10,1,no party,1,rose,wayne,president
+clinton,10,2,no party,0,rose,wayne,president
+johnson,10,1,no party,2,rose,wayne,president
+johnson,10,2,no party,0,rose,wayne,president
+buchanan,10,1,no party,0,rose,wayne,president
+buchanan,10,2,no party,0,rose,wayne,president
+castle,10,1,no party,0,rose,wayne,president
+castle,10,2,no party,0,rose,wayne,president
+hoefling,10,1,no party,0,rose,wayne,president
+hoefling,10,2,no party,0,rose,wayne,president
+kahn,10,1,no party,0,rose,wayne,president
+kahn,10,2,no party,0,rose,wayne,president
+keniston,10,1,no party,0,rose,wayne,president
+keniston,10,2,no party,0,rose,wayne,president
+maturen,10,1,no party,0,rose,wayne,president
+maturen,10,2,no party,0,rose,wayne,president
+mcmullin,10,1,no party,0,rose,wayne,president
+mcmullin,10,2,no party,0,rose,wayne,president
+gyurko,10,1,no party,0,rose,wayne,president
+gyurko,10,2,no party,0,rose,wayne,president
+no party,10,1,no party,0,rose,wayne,president
+no party,10,2,no party,1,rose,wayne,president
+no party,10,1,no party,0,rose,wayne,president
+no party,10,2,no party,1,rose,wayne,president
+undervotes/blank,10,1,no party,0,rose,wayne,president
+undervotes/blank,10,2,no party,1,rose,wayne,president
+clinton,11,1,no party,4,savannah,wayne,president
+clinton,11,2,no party,5,savannah,wayne,president
+trump,11,1,no party,9,savannah,wayne,president
+trump,11,2,no party,10,savannah,wayne,president
+trump,11,1,no party,1,savannah,wayne,president
+trump,11,2,no party,1,savannah,wayne,president
+stein,11,1,no party,0,savannah,wayne,president
+stein,11,2,no party,0,savannah,wayne,president
+clinton,11,1,no party,0,savannah,wayne,president
+clinton,11,2,no party,0,savannah,wayne,president
+johnson,11,1,no party,1,savannah,wayne,president
+johnson,11,2,no party,0,savannah,wayne,president
+clinton,11,1,no party,0,savannah,wayne,president
+clinton,11,2,no party,0,savannah,wayne,president
+johnson,11,1,no party,0,savannah,wayne,president
+johnson,11,2,no party,1,savannah,wayne,president
+buchanan,11,1,no party,0,savannah,wayne,president
+buchanan,11,2,no party,0,savannah,wayne,president
+castle,11,1,no party,0,savannah,wayne,president
+castle,11,2,no party,0,savannah,wayne,president
+hoefling,11,1,no party,0,savannah,wayne,president
+hoefling,11,2,no party,0,savannah,wayne,president
+kahn,11,1,no party,0,savannah,wayne,president
+kahn,11,2,no party,0,savannah,wayne,president
+keniston,11,1,no party,0,savannah,wayne,president
+keniston,11,2,no party,0,savannah,wayne,president
+maturen,11,1,no party,0,savannah,wayne,president
+maturen,11,2,no party,0,savannah,wayne,president
+mcmullin,11,1,no party,0,savannah,wayne,president
+mcmullin,11,2,no party,0,savannah,wayne,president
+gyurko,11,1,no party,0,savannah,wayne,president
+gyurko,11,2,no party,0,savannah,wayne,president
+no party,11,1,no party,0,savannah,wayne,president
+no party,11,2,no party,0,savannah,wayne,president
+no party,11,1,no party,0,savannah,wayne,president
+no party,11,2,no party,0,savannah,wayne,president
+undervotes/blank,11,1,no party,1,savannah,wayne,president
+undervotes/blank,11,2,no party,2,savannah,wayne,president
+clinton,12,1,no party,21,sodus,wayne,president
+clinton,12,2,no party,11,sodus,wayne,president
+clinton,12,3,no party,7,sodus,wayne,president
+clinton,12,4,no party,11,sodus,wayne,president
+clinton,12,5,no party,13,sodus,wayne,president
+clinton,12,6,no party,17,sodus,wayne,president
+trump,12,1,no party,27,sodus,wayne,president
+trump,12,2,no party,14,sodus,wayne,president
+trump,12,3,no party,19,sodus,wayne,president
+trump,12,4,no party,27,sodus,wayne,president
+trump,12,5,no party,23,sodus,wayne,president
+trump,12,6,no party,20,sodus,wayne,president
+trump,12,1,no party,0,sodus,wayne,president
+trump,12,2,no party,3,sodus,wayne,president
+trump,12,3,no party,2,sodus,wayne,president
+trump,12,4,no party,3,sodus,wayne,president
+trump,12,5,no party,4,sodus,wayne,president
+trump,12,6,no party,4,sodus,wayne,president
+stein,12,1,no party,1,sodus,wayne,president
+stein,12,2,no party,2,sodus,wayne,president
+stein,12,3,no party,1,sodus,wayne,president
+stein,12,4,no party,0,sodus,wayne,president
+stein,12,5,no party,2,sodus,wayne,president
+stein,12,6,no party,1,sodus,wayne,president
+clinton,12,1,no party,0,sodus,wayne,president
+clinton,12,2,no party,0,sodus,wayne,president
+clinton,12,3,no party,1,sodus,wayne,president
+clinton,12,4,no party,0,sodus,wayne,president
+clinton,12,5,no party,1,sodus,wayne,president
+clinton,12,6,no party,2,sodus,wayne,president
+johnson,12,1,no party,4,sodus,wayne,president
+johnson,12,2,no party,2,sodus,wayne,president
+johnson,12,3,no party,4,sodus,wayne,president
+johnson,12,4,no party,0,sodus,wayne,president
+johnson,12,5,no party,3,sodus,wayne,president
+johnson,12,6,no party,1,sodus,wayne,president
+clinton,12,1,no party,1,sodus,wayne,president
+clinton,12,2,no party,0,sodus,wayne,president
+clinton,12,3,no party,0,sodus,wayne,president
+clinton,12,4,no party,0,sodus,wayne,president
+clinton,12,5,no party,0,sodus,wayne,president
+clinton,12,6,no party,0,sodus,wayne,president
+johnson,12,1,no party,0,sodus,wayne,president
+johnson,12,2,no party,3,sodus,wayne,president
+johnson,12,3,no party,0,sodus,wayne,president
+johnson,12,4,no party,0,sodus,wayne,president
+johnson,12,5,no party,2,sodus,wayne,president
+johnson,12,6,no party,2,sodus,wayne,president
+buchanan,12,1,no party,0,sodus,wayne,president
+buchanan,12,2,no party,0,sodus,wayne,president
+buchanan,12,3,no party,0,sodus,wayne,president
+buchanan,12,4,no party,0,sodus,wayne,president
+buchanan,12,5,no party,0,sodus,wayne,president
+buchanan,12,6,no party,0,sodus,wayne,president
+castle,12,1,no party,0,sodus,wayne,president
+castle,12,2,no party,0,sodus,wayne,president
+castle,12,3,no party,0,sodus,wayne,president
+castle,12,4,no party,0,sodus,wayne,president
+castle,12,5,no party,0,sodus,wayne,president
+castle,12,6,no party,0,sodus,wayne,president
+hoefling,12,1,no party,0,sodus,wayne,president
+hoefling,12,2,no party,0,sodus,wayne,president
+hoefling,12,3,no party,0,sodus,wayne,president
+hoefling,12,4,no party,0,sodus,wayne,president
+hoefling,12,5,no party,0,sodus,wayne,president
+hoefling,12,6,no party,0,sodus,wayne,president
+kahn,12,1,no party,0,sodus,wayne,president
+kahn,12,2,no party,0,sodus,wayne,president
+kahn,12,3,no party,0,sodus,wayne,president
+kahn,12,4,no party,0,sodus,wayne,president
+kahn,12,5,no party,0,sodus,wayne,president
+kahn,12,6,no party,0,sodus,wayne,president
+keniston,12,1,no party,0,sodus,wayne,president
+keniston,12,2,no party,0,sodus,wayne,president
+keniston,12,3,no party,0,sodus,wayne,president
+keniston,12,4,no party,0,sodus,wayne,president
+keniston,12,5,no party,0,sodus,wayne,president
+keniston,12,6,no party,0,sodus,wayne,president
+maturen,12,1,no party,0,sodus,wayne,president
+maturen,12,2,no party,0,sodus,wayne,president
+maturen,12,3,no party,0,sodus,wayne,president
+maturen,12,4,no party,0,sodus,wayne,president
+maturen,12,5,no party,0,sodus,wayne,president
+maturen,12,6,no party,0,sodus,wayne,president
+mcmullin,12,1,no party,0,sodus,wayne,president
+mcmullin,12,2,no party,0,sodus,wayne,president
+mcmullin,12,3,no party,1,sodus,wayne,president
+mcmullin,12,4,no party,0,sodus,wayne,president
+mcmullin,12,5,no party,0,sodus,wayne,president
+mcmullin,12,6,no party,0,sodus,wayne,president
+gyurko,12,1,no party,0,sodus,wayne,president
+gyurko,12,2,no party,0,sodus,wayne,president
+gyurko,12,3,no party,0,sodus,wayne,president
+gyurko,12,4,no party,0,sodus,wayne,president
+gyurko,12,5,no party,0,sodus,wayne,president
+gyurko,12,6,no party,0,sodus,wayne,president
+no party,12,1,no party,0,sodus,wayne,president
+no party,12,2,no party,0,sodus,wayne,president
+no party,12,3,no party,1,sodus,wayne,president
+no party,12,4,no party,0,sodus,wayne,president
+no party,12,5,no party,0,sodus,wayne,president
+no party,12,6,no party,1,sodus,wayne,president
+no party,12,1,no party,0,sodus,wayne,president
+no party,12,2,no party,0,sodus,wayne,president
+no party,12,3,no party,1,sodus,wayne,president
+no party,12,4,no party,1,sodus,wayne,president
+no party,12,5,no party,0,sodus,wayne,president
+no party,12,6,no party,0,sodus,wayne,president
+undervotes/blank,12,1,no party,2,sodus,wayne,president
+undervotes/blank,12,2,no party,1,sodus,wayne,president
+undervotes/blank,12,3,no party,1,sodus,wayne,president
+undervotes/blank,12,4,no party,1,sodus,wayne,president
+undervotes/blank,12,5,no party,1,sodus,wayne,president
+undervotes/blank,12,6,no party,1,sodus,wayne,president
+clinton,13,01,no party,11,walworth,wayne,president
+clinton,13,02,no party,54,walworth,wayne,president
+clinton,13,03,no party,14,walworth,wayne,president
+clinton,13,04,no party,26,walworth,wayne,president
+clinton,13,05,no party,20,walworth,wayne,president
+trump,13,01,no party,15,walworth,wayne,president
+trump,13,02,no party,33,walworth,wayne,president
+trump,13,03,no party,15,walworth,wayne,president
+trump,13,04,no party,13,walworth,wayne,president
+trump,13,05,no party,26,walworth,wayne,president
+trump,13,01,no party,2,walworth,wayne,president
+trump,13,02,no party,5,walworth,wayne,president
+trump,13,03,no party,3,walworth,wayne,president
+trump,13,04,no party,4,walworth,wayne,president
+trump,13,05,no party,4,walworth,wayne,president
+stein,13,01,no party,0,walworth,wayne,president
+stein,13,02,no party,2,walworth,wayne,president
+stein,13,03,no party,1,walworth,wayne,president
+stein,13,04,no party,2,walworth,wayne,president
+stein,13,05,no party,1,walworth,wayne,president
+clinton,13,01,no party,1,walworth,wayne,president
+clinton,13,02,no party,1,walworth,wayne,president
+clinton,13,03,no party,1,walworth,wayne,president
+clinton,13,04,no party,1,walworth,wayne,president
+clinton,13,05,no party,0,walworth,wayne,president
+johnson,13,01,no party,1,walworth,wayne,president
+johnson,13,02,no party,5,walworth,wayne,president
+johnson,13,03,no party,1,walworth,wayne,president
+johnson,13,04,no party,3,walworth,wayne,president
+johnson,13,05,no party,0,walworth,wayne,president
+clinton,13,01,no party,0,walworth,wayne,president
+clinton,13,02,no party,0,walworth,wayne,president
+clinton,13,03,no party,0,walworth,wayne,president
+clinton,13,04,no party,0,walworth,wayne,president
+clinton,13,05,no party,0,walworth,wayne,president
+johnson,13,01,no party,0,walworth,wayne,president
+johnson,13,02,no party,1,walworth,wayne,president
+johnson,13,03,no party,1,walworth,wayne,president
+johnson,13,04,no party,0,walworth,wayne,president
+johnson,13,05,no party,1,walworth,wayne,president
+buchanan,13,01,no party,0,walworth,wayne,president
+buchanan,13,02,no party,0,walworth,wayne,president
+buchanan,13,03,no party,0,walworth,wayne,president
+buchanan,13,04,no party,0,walworth,wayne,president
+buchanan,13,05,no party,0,walworth,wayne,president
+castle,13,01,no party,0,walworth,wayne,president
+castle,13,02,no party,0,walworth,wayne,president
+castle,13,03,no party,0,walworth,wayne,president
+castle,13,04,no party,0,walworth,wayne,president
+castle,13,05,no party,0,walworth,wayne,president
+hoefling,13,01,no party,0,walworth,wayne,president
+hoefling,13,02,no party,0,walworth,wayne,president
+hoefling,13,03,no party,0,walworth,wayne,president
+hoefling,13,04,no party,0,walworth,wayne,president
+hoefling,13,05,no party,0,walworth,wayne,president
+kahn,13,01,no party,0,walworth,wayne,president
+kahn,13,02,no party,0,walworth,wayne,president
+kahn,13,03,no party,0,walworth,wayne,president
+kahn,13,04,no party,0,walworth,wayne,president
+kahn,13,05,no party,0,walworth,wayne,president
+keniston,13,01,no party,0,walworth,wayne,president
+keniston,13,02,no party,0,walworth,wayne,president
+keniston,13,03,no party,0,walworth,wayne,president
+keniston,13,04,no party,0,walworth,wayne,president
+keniston,13,05,no party,0,walworth,wayne,president
+maturen,13,01,no party,0,walworth,wayne,president
+maturen,13,02,no party,0,walworth,wayne,president
+maturen,13,03,no party,0,walworth,wayne,president
+maturen,13,04,no party,0,walworth,wayne,president
+maturen,13,05,no party,0,walworth,wayne,president
+mcmullin,13,01,no party,0,walworth,wayne,president
+mcmullin,13,02,no party,0,walworth,wayne,president
+mcmullin,13,03,no party,0,walworth,wayne,president
+mcmullin,13,04,no party,2,walworth,wayne,president
+mcmullin,13,05,no party,0,walworth,wayne,president
+gyurko,13,01,no party,0,walworth,wayne,president
+gyurko,13,02,no party,0,walworth,wayne,president
+gyurko,13,03,no party,0,walworth,wayne,president
+gyurko,13,04,no party,0,walworth,wayne,president
+gyurko,13,05,no party,0,walworth,wayne,president
+no party,13,01,no party,1,walworth,wayne,president
+no party,13,02,no party,3,walworth,wayne,president
+no party,13,03,no party,0,walworth,wayne,president
+no party,13,04,no party,0,walworth,wayne,president
+no party,13,05,no party,0,walworth,wayne,president
+no party,13,01,no party,0,walworth,wayne,president
+no party,13,02,no party,0,walworth,wayne,president
+no party,13,03,no party,1,walworth,wayne,president
+no party,13,04,no party,0,walworth,wayne,president
+no party,13,05,no party,0,walworth,wayne,president
+undervotes/blank,13,01,no party,2,walworth,wayne,president
+undervotes/blank,13,02,no party,1,walworth,wayne,president
+undervotes/blank,13,03,no party,0,walworth,wayne,president
+undervotes/blank,13,04,no party,1,walworth,wayne,president
+undervotes/blank,13,05,no party,1,walworth,wayne,president
+clinton,14,01,no party,12,williamson,wayne,president
+clinton,14,02,no party,24,williamson,wayne,president
+clinton,14,03,no party,19,williamson,wayne,president
+clinton,14,04,no party,12,williamson,wayne,president
+clinton,14,05,no party,17,williamson,wayne,president
+trump,14,01,no party,13,williamson,wayne,president
+trump,14,02,no party,11,williamson,wayne,president
+trump,14,03,no party,36,williamson,wayne,president
+trump,14,04,no party,15,williamson,wayne,president
+trump,14,05,no party,19,williamson,wayne,president
+trump,14,01,no party,2,williamson,wayne,president
+trump,14,02,no party,7,williamson,wayne,president
+trump,14,03,no party,1,williamson,wayne,president
+trump,14,04,no party,3,williamson,wayne,president
+trump,14,05,no party,5,williamson,wayne,president
+stein,14,01,no party,3,williamson,wayne,president
+stein,14,02,no party,0,williamson,wayne,president
+stein,14,03,no party,0,williamson,wayne,president
+stein,14,04,no party,0,williamson,wayne,president
+stein,14,05,no party,0,williamson,wayne,president
+clinton,14,01,no party,0,williamson,wayne,president
+clinton,14,02,no party,0,williamson,wayne,president
+clinton,14,03,no party,0,williamson,wayne,president
+clinton,14,04,no party,0,williamson,wayne,president
+clinton,14,05,no party,0,williamson,wayne,president
+johnson,14,01,no party,1,williamson,wayne,president
+johnson,14,02,no party,2,williamson,wayne,president
+johnson,14,03,no party,1,williamson,wayne,president
+johnson,14,04,no party,2,williamson,wayne,president
+johnson,14,05,no party,0,williamson,wayne,president
+clinton,14,01,no party,0,williamson,wayne,president
+clinton,14,02,no party,2,williamson,wayne,president
+clinton,14,03,no party,0,williamson,wayne,president
+clinton,14,04,no party,0,williamson,wayne,president
+clinton,14,05,no party,0,williamson,wayne,president
+johnson,14,01,no party,0,williamson,wayne,president
+johnson,14,02,no party,1,williamson,wayne,president
+johnson,14,03,no party,1,williamson,wayne,president
+johnson,14,04,no party,0,williamson,wayne,president
+johnson,14,05,no party,2,williamson,wayne,president
+buchanan,14,01,no party,0,williamson,wayne,president
+buchanan,14,02,no party,0,williamson,wayne,president
+buchanan,14,03,no party,0,williamson,wayne,president
+buchanan,14,04,no party,0,williamson,wayne,president
+buchanan,14,05,no party,0,williamson,wayne,president
+castle,14,01,no party,0,williamson,wayne,president
+castle,14,02,no party,0,williamson,wayne,president
+castle,14,03,no party,0,williamson,wayne,president
+castle,14,04,no party,0,williamson,wayne,president
+castle,14,05,no party,0,williamson,wayne,president
+hoefling,14,01,no party,0,williamson,wayne,president
+hoefling,14,02,no party,0,williamson,wayne,president
+hoefling,14,03,no party,0,williamson,wayne,president
+hoefling,14,04,no party,0,williamson,wayne,president
+hoefling,14,05,no party,0,williamson,wayne,president
+kahn,14,01,no party,0,williamson,wayne,president
+kahn,14,02,no party,0,williamson,wayne,president
+kahn,14,03,no party,0,williamson,wayne,president
+kahn,14,04,no party,0,williamson,wayne,president
+kahn,14,05,no party,0,williamson,wayne,president
+keniston,14,01,no party,0,williamson,wayne,president
+keniston,14,02,no party,0,williamson,wayne,president
+keniston,14,03,no party,0,williamson,wayne,president
+keniston,14,04,no party,0,williamson,wayne,president
+keniston,14,05,no party,0,williamson,wayne,president
+maturen,14,01,no party,0,williamson,wayne,president
+maturen,14,02,no party,0,williamson,wayne,president
+maturen,14,03,no party,0,williamson,wayne,president
+maturen,14,04,no party,0,williamson,wayne,president
+maturen,14,05,no party,0,williamson,wayne,president
+mcmullin,14,01,no party,0,williamson,wayne,president
+mcmullin,14,02,no party,0,williamson,wayne,president
+mcmullin,14,03,no party,0,williamson,wayne,president
+mcmullin,14,04,no party,0,williamson,wayne,president
+mcmullin,14,05,no party,0,williamson,wayne,president
+gyurko,14,01,no party,0,williamson,wayne,president
+gyurko,14,02,no party,0,williamson,wayne,president
+gyurko,14,03,no party,0,williamson,wayne,president
+gyurko,14,04,no party,0,williamson,wayne,president
+gyurko,14,05,no party,0,williamson,wayne,president
+no party,14,01,no party,0,williamson,wayne,president
+no party,14,02,no party,1,williamson,wayne,president
+no party,14,03,no party,0,williamson,wayne,president
+no party,14,04,no party,1,williamson,wayne,president
+no party,14,05,no party,0,williamson,wayne,president
+no party,14,01,no party,0,williamson,wayne,president
+no party,14,02,no party,0,williamson,wayne,president
+no party,14,03,no party,1,williamson,wayne,president
+no party,14,04,no party,0,williamson,wayne,president
+no party,14,05,no party,0,williamson,wayne,president
+undervotes/blank,14,01,no party,1,williamson,wayne,president
+undervotes/blank,14,02,no party,4,williamson,wayne,president
+undervotes/blank,14,03,no party,2,williamson,wayne,president
+undervotes/blank,14,04,no party,2,williamson,wayne,president
+undervotes/blank,14,05,no party,1,williamson,wayne,president
+clinton,15,01,no party,13,wolcott,wayne,president
+clinton,15,02,democ,40,wolcott,wayne,president
+clinton,15,03,democ,86,wolcott,wayne,president
+clinton,15,04,democ,119,wolcott,wayne,president
+trump,15,01,no party,11,wolcott,wayne,president
+trump,15,02,repub,111,wolcott,wayne,president
+trump,15,03,repub,258,wolcott,wayne,president
+trump,15,04,repub,300,wolcott,wayne,president
+trump,15,01,no party,3,wolcott,wayne,president
+trump,15,02,conse,17,wolcott,wayne,president
+trump,15,03,conse,32,wolcott,wayne,president
+trump,15,04,conse,47,wolcott,wayne,president
+stein,15,01,no party,0,wolcott,wayne,president
+stein,15,02,green,0,wolcott,wayne,president
+stein,15,03,green,9,wolcott,wayne,president
+stein,15,04,green,8,wolcott,wayne,president
+clinton,15,01,no party,0,wolcott,wayne,president
+clinton,15,02,worki,1,wolcott,wayne,president
+clinton,15,03,worki,4,wolcott,wayne,president
+clinton,15,04,worki,6,wolcott,wayne,president
+johnson,15,01,no party,1,wolcott,wayne,president
+johnson,15,02,indep,5,wolcott,wayne,president
+johnson,15,03,indep,14,wolcott,wayne,president
+johnson,15,04,indep,9,wolcott,wayne,president
+clinton,15,01,no party,0,wolcott,wayne,president
+clinton,15,02,wome,0,wolcott,wayne,president
+clinton,15,03,wome,1,wolcott,wayne,president
+clinton,15,04,wome,3,wolcott,wayne,president
+johnson,15,01,no party,0,wolcott,wayne,president
+johnson,15,02,libert,2,wolcott,wayne,president
+johnson,15,03,libert,5,wolcott,wayne,president
+johnson,15,04,libert,3,wolcott,wayne,president
+buchanan,15,01,no party,0,wolcott,wayne,president
+buchanan,15,02,no party,0,wolcott,wayne,president
+buchanan,15,03,no party,0,wolcott,wayne,president
+buchanan,15,04,no party,0,wolcott,wayne,president
+castle,15,01,no party,0,wolcott,wayne,president
+castle,15,02,no party,0,wolcott,wayne,president
+castle,15,03,no party,0,wolcott,wayne,president
+castle,15,04,no party,0,wolcott,wayne,president
+hoefling,15,01,no party,0,wolcott,wayne,president
+hoefling,15,02,no party,0,wolcott,wayne,president
+hoefling,15,03,no party,0,wolcott,wayne,president
+hoefling,15,04,no party,0,wolcott,wayne,president
+kahn,15,01,no party,0,wolcott,wayne,president
+kahn,15,02,no party,0,wolcott,wayne,president
+kahn,15,03,no party,0,wolcott,wayne,president
+kahn,15,04,no party,0,wolcott,wayne,president
+keniston,15,01,no party,0,wolcott,wayne,president
+keniston,15,02,no party,0,wolcott,wayne,president
+keniston,15,03,no party,0,wolcott,wayne,president
+keniston,15,04,no party,0,wolcott,wayne,president
+maturen,15,01,no party,0,wolcott,wayne,president
+maturen,15,02,no party,0,wolcott,wayne,president
+maturen,15,03,no party,0,wolcott,wayne,president
+maturen,15,04,no party,0,wolcott,wayne,president
+mcmullin,15,01,no party,2,wolcott,wayne,president
+mcmullin,15,02,no party,2,wolcott,wayne,president
+mcmullin,15,03,no party,1,wolcott,wayne,president
+mcmullin,15,04,no party,2,wolcott,wayne,president
+gyurko,15,01,no party,0,wolcott,wayne,president
+gyurko,15,02,no party,0,wolcott,wayne,president
+gyurko,15,03,no party,0,wolcott,wayne,president
+gyurko,15,04,no party,0,wolcott,wayne,president
+no party,15,01,no party,0,wolcott,wayne,president
+no party,15,02,no party,2,wolcott,wayne,president
+no party,15,03,no party,2,wolcott,wayne,president
+no party,15,04,no party,2,wolcott,wayne,president
+no party,15,01,no party,0,wolcott,wayne,president
+no party,15,02,no party,0,wolcott,wayne,president
+no party,15,03,no party,0,wolcott,wayne,president
+no party,15,04,no party,0,wolcott,wayne,president
+undervotes/blank,15,01,no party,0,wolcott,wayne,president
+undervotes/blank,15,02,no party,0,wolcott,wayne,president
+undervotes/blank,15,03,no party,2,wolcott,wayne,president
+undervotes/blank,15,04,no party,3,wolcott,wayne,president
